@@ -125,6 +125,7 @@ body{
 .project h1{
     font-size: 30px;
     margin-bottom: 25px;
+    margin-top: 20px;
 }
 .card{
     display: flex;
